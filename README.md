@@ -17,12 +17,23 @@ Upon logging in, users can easily customize their pacemaker settings across four
 </p>
 
 <h2> Installation and Usage </h2>
-To run the application, you will need to install Python 3.6 or above and pull the project from github to a local repo. Afterwards, open the project in a code editor of your choice (e.g. PyCharm). You will need to install the following libraries in your terminal to run the project: 
+NOTE: this application is meant to be connected to a Pacemaker device to use all features. To run the application, you will need to install Python 3.6 or above and pull the project from github to a local repo. Afterwards, open the project in a code editor of your choice (e.g. PyCharm). You will need to install the following libraries in your terminal to run the project: 
+<br/>
 
+1. Install PySimpleGui
 ```Bash
 pip install pysimplegui
 ```
-
+<br/>
+2. Install PySerial
+```Bash
+pip install pyserial
+```
+<br/>
+3. Install Matplotlib
+```Bash
+pip install matplotlib
+```
 
 <h2> Technologies Used </h2>
 <ul>
