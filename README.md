@@ -7,16 +7,21 @@ This Device-Controller Monitor (DCM), built using Python, enables remote transmi
 <br/>
 <br/>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/108163033/224840056-168aa7c9-f693-4fa4-83a5-26486ce863a0.png"/>
+  <img src="https://user-images.githubusercontent.com/108163033/224840056-168aa7c9-f693-4fa4-83a5-26486ce863a0.png" width="700"/>
 </p>
 
 Upon logging in, users can easily customize their pacemaker settings across four pacing modes and visualize live heart electrogram data captured via PySerial and plotted using Python's Matplotlib library.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/108163033/224839931-ad75c1d4-d394-4cfa-b2f9-98dd50f53098.png"/>
+  <img src="https://user-images.githubusercontent.com/108163033/224839931-ad75c1d4-d394-4cfa-b2f9-98dd50f53098.png" width="700"/>
 </p>
 
 <h2> Installation and Usage </h2>
+To run the application, you will need to install Python 3.6 or above and pull the project from github to a local repo. Afterwards, open the project in a code editor of your choice (e.g. PyCharm). You will need to install the following libraries in your terminal to run the project: 
+
+```Python 
+pip install pysimplegui
+
 
 
 <h2> Technologies Used </h2>
