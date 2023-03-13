@@ -24,12 +24,12 @@ NOTE: this application is meant to be connected to a Pacemaker device to use all
 ```Bash
 pip install pysimplegui
 ```
-<br/>
+
 2. Install PySerial
 ```Bash
 pip install pyserial
 ```
-<br/>
+
 3. Install Matplotlib
 ```Bash
 pip install matplotlib
