@@ -40,6 +40,7 @@ pip install matplotlib
 <h2> Technologies Used </h2>
 <ul>
     <li>Python </li>
+    <li>SQlite </li>
     <li>PySimpleGui</li>
     <li>Matplotlib</li>
     <li>PySerial</li>
