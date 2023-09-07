@@ -17,7 +17,7 @@ Upon logging in, users can easily customize their pacemaker settings across four
   <img src="https://user-images.githubusercontent.com/108163033/224839931-ad75c1d4-d394-4cfa-b2f9-98dd50f53098.png" width="700"/>
 </p>
 
-Users can also sign-out or choose to delete their account by reenter their password for confirmation. 
+Users can also sign-out or choose to delete their account. 
 
 <p align="center">
   <img src="https://github.com/sabrahahmed/Pacemaker-DCM/assets/108163033/fb48cab9-9404-4172-b312-ae90ff1ae7e5" width="700"/>
