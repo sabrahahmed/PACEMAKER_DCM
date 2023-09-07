@@ -17,6 +17,13 @@ Upon logging in, users can easily customize their pacemaker settings across four
   <img src="https://user-images.githubusercontent.com/108163033/224839931-ad75c1d4-d394-4cfa-b2f9-98dd50f53098.png" width="700"/>
 </p>
 
+Users can also sign-out or choose to delete their account by reenter their password for confirmation. 
+
+<p align="center">
+  <img src="https://github.com/sabrahahmed/Pacemaker-DCM/assets/108163033/fb48cab9-9404-4172-b312-ae90ff1ae7e5" width="700"/>
+</p>
+
+
 <h2> Installation and Usage </h2>
 NOTE: this application is meant to be connected to a Pacemaker device to use all features. To run the application, you will need to install Python 3.6 or above and pull the project from github to a local repo. Afterwards, open the project in a code editor of your choice (e.g. PyCharm). You will need to install the following libraries in your terminal to run the project: 
 <br/>
